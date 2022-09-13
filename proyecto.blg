@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: proyecto.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: ref.bib
+Warning--empty year in cespedesprimer
+Warning--empty journal in cespedesprimer
+Warning--there's a number but no series in sears1986fisica
+You've used 5 entries,
+            1935 wiz_defined-function locations,
+            499 strings with 4733 characters,
+and the built_in function-call counts, 1871 in all, are:
+= -- 177
+> -- 77
+< -- 7
++ -- 26
+- -- 26
+* -- 144
+:= -- 334
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 37
+chr.to.int$ -- 5
+cite$ -- 8
+duplicate$ -- 79
+empty$ -- 124
+format.name$ -- 33
+if$ -- 367
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 6
+newline$ -- 27
+num.names$ -- 15
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 38
+quote$ -- 0
+skip$ -- 61
+stack$ -- 0
+substring$ -- 93
+swap$ -- 15
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 3
+while$ -- 14
+width$ -- 0
+write$ -- 63
+(There were 3 warnings)
